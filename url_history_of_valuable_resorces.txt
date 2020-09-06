@@ -90,13 +90,45 @@ https://www.kalmanfilter.net/alphabeta.html
 
 https://github.com/jonndoe/SelfDrivingCar
 
+https://awesomeopensource.com/projects/self-driving-car
 
 
 
 
 
 
+SELF-DRIVING CAR REAL WORK:
 
+https://www.drive2.com/l/4539645/
+https://www.drive2.com/b/472129194529128744/
+https://elm-327.eu/
+https://елм327.рф/elm327-ne-podkljuchaetsja-k-jebu
+https://habr.com/ru/post/444726/
+
+https://habr.com/ru/post/444726/
+
+https://4pda.ru/forum/index.php?showtopic=961959
+
+https://wiki.seeedstudio.com/CAN-BUS_Shield_V1.2/
+
+https://www.youtube.com/watch?v=Urcjk0cKN8Q
+
+https://www.drive2.com/l/501963343037202887/
+
+http://www.bixen.ru/auto-accessories/parktroniks/avtoparkovka-ca7008H.html
+
+https://habr.com/ru/post/399043/
+
+https://habr.com/ru/post/450140/
+
+https://www.drive2.com/l/4668135/
+
+
+
+
+GYM_OPENAI:
+
+https://ai.stackexchange.com/questions/13540/openai-spinning-up-breakout-v0-example
 
 
 
