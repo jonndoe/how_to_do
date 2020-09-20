@@ -153,6 +153,11 @@ https://arsthaumaturgis.github.io/Panda3DTutorial.io/tutorial/tut_lesson02.html
 
 
 
+JAVASCRIPT BOOKS ONLINE:
+
+https://eloquentjavascript.net/21_skillsharing.html
+
+
 NICE JAVASCRIPT 3D SCENES:
 
 https://www.benjoffe.com/code/tools/functions3d
