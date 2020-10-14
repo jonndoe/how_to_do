@@ -92,7 +92,7 @@ https://github.com/jonndoe/SelfDrivingCar
 
 https://awesomeopensource.com/projects/self-driving-car
 
-
+https://medium.com/group-4-blog/extremely-simple-gpt-2-tutorial-3e22323aa384
 
 
 
@@ -167,7 +167,7 @@ RxJS :
 
 https://rxmarbles.com/#switchMapTo
 
-
+https://trends.builtwith.com/javascript/Angular
 
 
 
