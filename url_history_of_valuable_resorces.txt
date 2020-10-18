@@ -1,3 +1,9 @@
+TERMUX
+
+https://www.hackster.io/mainul/build-an-iot-viz-with-your-android-phone-s-sensors-cc241e
+
+
+
 AI_INTELIGENCE
 
 
@@ -145,7 +151,9 @@ https://www.cyberciti.biz/faq/how-to-check-running-process-in-ubuntu-linux-using
 
 WEB_DEVELOPMENT:
 
+https://switch2osm.org/serving-tiles/
 https://leafletjs.com/
+https://medium.com/@eugenebelkovich/map-for-react-apps-with-leaflet-365f9df82d55
 
 
 
