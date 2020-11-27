@@ -1,9 +1,3 @@
-# Download setup script:
-
-# curl -L https://raw.githubusercontent.com/do-community/automated-setups/master/Ubuntu-18.04/initial_server_setup.sh -o /tmp/initial_setup.sh
-
-
-
 #!/bin/bash
 set -euo pipefail
 
@@ -78,3 +72,10 @@ fi
 # Add exception for SSH and then enable UFW firewall
 ufw allow OpenSSH
 ufw --force enable
+
+
+
+
+# Download setup script:
+
+# curl -L https://raw.githubusercontent.com/do-community/automated-setups/master/Ubuntu-18.04/initial_server_setup.sh -o /tmp/initial_setup.sh
