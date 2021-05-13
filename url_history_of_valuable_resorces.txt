@@ -1,3 +1,11 @@
+DJANGO
+https://dev.to/pascalw/django-webpack-without-any-plugins-94p
+
+
+
+
+
+
 TERMUX
 
 https://www.hackster.io/mainul/build-an-iot-viz-with-your-android-phone-s-sensors-cc241e
