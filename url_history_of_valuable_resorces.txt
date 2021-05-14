@@ -1,6 +1,6 @@
 DJANGO
 https://dev.to/pascalw/django-webpack-without-any-plugins-94p
-
+https://learndjango.com/tutorials/database-design-tutorial-beginners
 
 
 
