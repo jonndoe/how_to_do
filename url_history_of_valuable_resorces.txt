@@ -3,6 +3,9 @@ https://dev.to/pascalw/django-webpack-without-any-plugins-94p
 https://learndjango.com/tutorials/database-design-tutorial-beginners
 
 
+DJANGO-SOCKPUUPET, STIMULUS-REFLEX, REFLEXES, TURBOLINKS, CABLEREADY
+https://github.com/stimulusreflex/stimulus_reflex/issues/113
+
 
 
 
