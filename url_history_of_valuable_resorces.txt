@@ -6,6 +6,7 @@ https://learndjango.com/tutorials/database-design-tutorial-beginners
 DJANGO-SOCKPUUPET, STIMULUS-REFLEX, REFLEXES, TURBOLINKS, CABLEREADY
 https://github.com/stimulusreflex/stimulus_reflex/issues/113
 https://forum.defold.com/t/websocket-sec-websocket-protocol-no-response-was-received-solved/66716/16
+https://guides.rubyonrails.org/action_cable_overview.html
 
 
 
