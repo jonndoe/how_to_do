@@ -1,3 +1,10 @@
+WEBRTC, VIDEO STREAMING
+https://github.com/peers/peerjs-server
+https://peerjs.com/docs.html#start
+https://github.com/jmcker/Peer-to-Peer-Cue-System/blob/main/send.html
+https://codelabs.developers.google.com/codelabs/webrtc-web#2
+
+
 DJANGO
 https://dev.to/pascalw/django-webpack-without-any-plugins-94p
 https://learndjango.com/tutorials/database-design-tutorial-beginners
@@ -11,76 +18,32 @@ https://guides.rubyonrails.org/action_cable_overview.html
 
 
 TERMUX
-
 https://www.hackster.io/mainul/build-an-iot-viz-with-your-android-phone-s-sensors-cc241e
 
 
 
 AI_INTELIGENCE
-
-
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
-
-
 https://pythonprogramming.net/gpu-deep-learning-neural-network-pytorch/
-
-
 https://www.google.com/search?client=ubuntu&channel=fs&q=solving+Riverraid-v0+environment&ie=utf-8&oe=utf-8
-
-
 https://becominghuman.ai/lets-build-an-atari-ai-part-1-dqn-df57e8ff3b26
-
-
-
 https://gym.openai.com/evaluations/eval_OU4x3DkTfm4uaXy6CIaXg/
-
-
 https://github.com/tensorpack/tensorpack/tree/master/examples/A3C-Gym
-
-
-
 https://gym.openai.com/evaluations/eval_zIeNk5MxSGOmvGEUxrZDUw/
-
-
-
 https://gym.openai.com/envs/Riverraid-v0/
-
-
 proximal policy optimization pytorch
-
-
-
-
 https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail
-
-
 https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3
-
-
 https://www.ctolib.com/topics-127207.html
-
 https://gym.openai.com/envs/#atari
-
-
 https://github.com/graykode/gpt-2-Pytorch
-
 https://huggingface.co/transformers/installation.html
-
 https://colab.research.google.com/github/graykode/gpt-2-Pytorch/blob/master/GPT2_Pytorch.ipynb#scrollTo=he_YiEC9T6-D
-
 https://colab.research.google.com/drive/1XdRh-7BC99mhkKP4Gd2QgrLUIdH_Ip2y#scrollTo=Ez-0WUD1Bt4I
-
-
 https://github.com/facebookarchive/models/issues/16
-
-
 https://towardsdatascience.com/interviewing-the-1-5b-gpt-2-model-by-openai-b7f30fbbb8a6
-
-
 https://towardsdatascience.com/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1b
-
 https://github.com/jonndoe/fine-tuning-GPT2
-
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 
 https://www.analyticsvidhya.com/blog/2019/07/openai-gpt2-text-generator-python/
@@ -116,36 +79,25 @@ https://medium.com/group-4-blog/extremely-simple-gpt-2-tutorial-3e22323aa384
 
 
 SELF-DRIVING CAR REAL WORK:
-
 https://www.drive2.com/l/4539645/
 https://www.drive2.com/b/472129194529128744/
 https://elm-327.eu/
 https://елм327.рф/elm327-ne-podkljuchaetsja-k-jebu
 https://habr.com/ru/post/444726/
-
 https://habr.com/ru/post/444726/
-
 https://4pda.ru/forum/index.php?showtopic=961959
-
 https://wiki.seeedstudio.com/CAN-BUS_Shield_V1.2/
-
 https://www.youtube.com/watch?v=Urcjk0cKN8Q
-
 https://www.drive2.com/l/501963343037202887/
-
 http://www.bixen.ru/auto-accessories/parktroniks/avtoparkovka-ca7008H.html
-
 https://habr.com/ru/post/399043/
-
 https://habr.com/ru/post/450140/
-
 https://www.drive2.com/l/4668135/
 
 
 
 
 GYM_OPENAI:
-
 https://ai.stackexchange.com/questions/13540/openai-spinning-up-breakout-v0-example
 
 
@@ -153,7 +105,6 @@ https://ai.stackexchange.com/questions/13540/openai-spinning-up-breakout-v0-exam
 
 
 LINUX_COMMANDS:
-
 https://www.cyberciti.biz/faq/how-to-check-running-process-in-ubuntu-linux-using-command-line/
 
 
@@ -162,7 +113,6 @@ https://www.cyberciti.biz/faq/how-to-check-running-process-in-ubuntu-linux-using
 
 
 WEB_DEVELOPMENT:
-
 https://switch2osm.org/serving-tiles/
 https://leafletjs.com/
 https://medium.com/@eugenebelkovich/map-for-react-apps-with-leaflet-365f9df82d55
@@ -174,19 +124,15 @@ https://arsthaumaturgis.github.io/Panda3DTutorial.io/tutorial/tut_lesson02.html
 
 
 JAVASCRIPT BOOKS ONLINE:
-
 https://eloquentjavascript.net/21_skillsharing.html
 
 
 NICE JAVASCRIPT 3D SCENES:
-
 https://www.benjoffe.com/code/tools/functions3d
 
 
 RxJS :
-
 https://rxmarbles.com/#switchMapTo
-
 https://trends.builtwith.com/javascript/Angular
 
 
