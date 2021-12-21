@@ -82,6 +82,7 @@ https://medium.com/group-4-blog/extremely-simple-gpt-2-tutorial-3e22323aa384
 # AI car plates recognition
 https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c
 https://www.pyimagesearch.com/2020/09/21/opencv-automatic-license-number-plate-recognition-anpr-with-python/
+https://nanonets.com/blog/ocr-with-tesseract/#installingtesseract
 
 SELF-DRIVING CAR REAL WORK:
 https://www.drive2.com/l/4539645/
