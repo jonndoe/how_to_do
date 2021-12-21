@@ -79,7 +79,8 @@ https://awesomeopensource.com/projects/self-driving-car
 
 https://medium.com/group-4-blog/extremely-simple-gpt-2-tutorial-3e22323aa384
 
-
+# AI car plates recognition
+https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c
 
 
 SELF-DRIVING CAR REAL WORK:
