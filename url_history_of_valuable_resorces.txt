@@ -26,6 +26,9 @@ https://github.com/stimulusreflex/stimulus_reflex/blob/v2.2.2/javascript/stimulu
 TERMUX
 https://www.hackster.io/mainul/build-an-iot-viz-with-your-android-phone-s-sensors-cc241e
 
+NUMENTA_GRID_CELLS
+https://numenta.com/blog/2018/05/25/how-grid-cells-map-space/
+
 
 
 AI_INTELIGENCE
