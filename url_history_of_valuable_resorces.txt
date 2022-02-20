@@ -11,6 +11,10 @@ https://learndjango.com/tutorials/database-design-tutorial-beginners
 https://www.slideshare.net/danielhepper/behind-the-curtain-how-django-handles-a-request
 https://consideratecode.com/2018/08/14/django-is-too-complicated/#comment-52444
 
+WEBPACK
+https://www.valentinog.com/blog/webpack/
+
+
 BOOTSTRAP, FRONTEND
 https://bootswatch.com/lumen/?
 
