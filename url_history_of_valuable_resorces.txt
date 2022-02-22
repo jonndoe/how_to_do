@@ -10,6 +10,7 @@ https://dev.to/pascalw/django-webpack-without-any-plugins-94p
 https://learndjango.com/tutorials/database-design-tutorial-beginners
 https://www.slideshare.net/danielhepper/behind-the-curtain-how-django-handles-a-request
 https://consideratecode.com/2018/08/14/django-is-too-complicated/#comment-52444
+https://medium.com/@naufal.ihsan21/how-to-serve-static-files-in-django-using-whitenoise-cda11f9bb643
 
 WEBPACK
 https://www.valentinog.com/blog/webpack/
