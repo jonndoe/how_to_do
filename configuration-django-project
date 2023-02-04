@@ -36,6 +36,9 @@ add requirements-dev.txt
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 django
 pre-commit
+black
+isort
+flake8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -60,7 +63,7 @@ repos:
       - id: check-yaml
 
   - repo: https://github.com/psf/black
-    rev: 21.5b2
+    rev: 22.3.0
     hooks:
       - id: black
 
@@ -73,6 +76,26 @@ repos:
     rev: 3.9.2
     hooks:
       - id: flake8
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ 
+create .pylintrc
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[MASTER]
+load-plugins=pylint_django
+
+[FORMAT]
+max-line-length=120
+
+[MESSAGES CONTROL]
+disable=missing-docstring,invalid-name
+
+[DESIGN]
+max-parents=13
+
+[TYPECHECK]
+generated-members=REQUEST,acl_users,aq_parent,"[a-zA-Z]+_set{1,2}",save,delete
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         args: ['--config=./setup.cfg', '--ignore=F401 E402']  #some problem here, changes in setup.cfg somehow does not work in pre-commit...to be fixed
         additional_dependencies: [flake8-isort]
 
