@@ -1,26 +1,26 @@
-WEBRTC, VIDEO STREAMING
+# WEBRTC, VIDEO STREAMING
 https://github.com/peers/peerjs-server
 https://peerjs.com/docs.html#start
 https://github.com/jmcker/Peer-to-Peer-Cue-System/blob/main/send.html
 https://codelabs.developers.google.com/codelabs/webrtc-web#2
 
 
-DJANGO
+# DJANGO
 https://dev.to/pascalw/django-webpack-without-any-plugins-94p
 https://learndjango.com/tutorials/database-design-tutorial-beginners
 https://www.slideshare.net/danielhepper/behind-the-curtain-how-django-handles-a-request
 https://consideratecode.com/2018/08/14/django-is-too-complicated/#comment-52444
 https://medium.com/@naufal.ihsan21/how-to-serve-static-files-in-django-using-whitenoise-cda11f9bb643
 
-WEBPACK
+# WEBPACK
 https://www.valentinog.com/blog/webpack/
 
 
-BOOTSTRAP, FRONTEND
+# BOOTSTRAP, FRONTEND
 https://bootswatch.com/lumen/?
 
 
-DJANGO-SOCKPUUPET, STIMULUS-REFLEX, REFLEXES, TURBOLINKS, CABLEREADY
+# DJANGO-SOCKPUUPET, STIMULUS-REFLEX, REFLEXES, TURBOLINKS, CABLEREADY
 https://github.com/stimulusreflex/stimulus_reflex/issues/113
 https://forum.defold.com/t/websocket-sec-websocket-protocol-no-response-was-received-solved/66716/16
 https://guides.rubyonrails.org/action_cable_overview.html
@@ -28,15 +28,15 @@ https://sipsandbits.com/2020/10/07/django-turbolinks/
 https://github.com/stimulusreflex/stimulus_reflex/blob/v2.2.2/javascript/stimulus_reflex.js#L56-L64
 
 
-TERMUX
+# TERMUX
 https://www.hackster.io/mainul/build-an-iot-viz-with-your-android-phone-s-sensors-cc241e
 
-NUMENTA_GRID_CELLS
+# NUMENTA_GRID_CELLS
 https://numenta.com/blog/2018/05/25/how-grid-cells-map-space/
 
 
 
-AI_INTELIGENCE
+# AI_INTELIGENCE
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 https://pythonprogramming.net/gpu-deep-learning-neural-network-pytorch/
 https://www.google.com/search?client=ubuntu&channel=fs&q=solving+Riverraid-v0+environment&ie=utf-8&oe=utf-8
@@ -59,35 +59,21 @@ https://towardsdatascience.com/interviewing-the-1-5b-gpt-2-model-by-openai-b7f30
 https://towardsdatascience.com/fine-tuning-gpt2-for-text-generation-using-pytorch-2ee61a4f1b
 https://github.com/jonndoe/fine-tuning-GPT2
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
-
 https://www.analyticsvidhya.com/blog/2019/07/openai-gpt2-text-generator-python/
-
 https://colab.research.google.com/drive/1_lqsDtwSLfSIvArufPC1yWft9zNvyZjW#scrollTo=g-mnDJKhB6gf
-
 https://colab.research.google.com/github/iyaja/GPT-2-PyTorch/blob/master/GPT_2_PyTorch.ipynb
-
 http://jalammar.github.io/illustrated-gpt2/
-
 https://pythonprogramming.net/gpu-deep-learning-neural-network-pytorch/?completed=/convnet-model-deep-learning-neural-network-pytorch/
-
 https://github.com/hayoung-kim/udacity-path-planning
-
 https://github.com/udacity/CarND-Path-Planning-Project/issues/14
-
 https://github.com/udacity/CarND-Capstone/releases/tag/v1.2
-
-
 https://medium.com/@albertogrivera/udacity-self-driving-car-nanodegree-in-2020-c0280544501e
-
 https://github.com/Danziger/CarND-T2-P1-Extended-Kalman-Filter
-
 https://www.kalmanfilter.net/alphabeta.html
-
 https://github.com/jonndoe/SelfDrivingCar
-
 https://awesomeopensource.com/projects/self-driving-car
-
 https://medium.com/group-4-blog/extremely-simple-gpt-2-tutorial-3e22323aa384
+
 
 # AI car plates recognition
 https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c
@@ -95,14 +81,17 @@ https://www.pyimagesearch.com/2020/09/21/opencv-automatic-license-number-plate-r
 https://nanonets.com/blog/ocr-with-tesseract/#installingtesseract
 https://github.com/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR
 
+
 # AI Face Recognition
 https://pypi.org/project/face-recognition/
+
 
 # AI C++ library for real CNN projects:
 http://dlib.net/compile.html
 https://github.com/davisking/dlib
 
-SELF-DRIVING CAR REAL WORK:
+
+# SELF-DRIVING CAR REAL WORK:
 https://www.drive2.com/l/4539645/
 https://www.drive2.com/b/472129194529128744/
 https://elm-327.eu/
@@ -117,50 +106,40 @@ http://www.bixen.ru/auto-accessories/parktroniks/avtoparkovka-ca7008H.html
 https://habr.com/ru/post/399043/
 https://habr.com/ru/post/450140/
 https://www.drive2.com/l/4668135/
-
-
-
-
-GYM_OPENAI:
+ 
+ 
+# GYM_OPENAI:
 https://ai.stackexchange.com/questions/13540/openai-spinning-up-breakout-v0-example
 
 
-
-
-
-LINUX_COMMANDS:
+# LINUX_COMMANDS:
 https://www.cyberciti.biz/faq/how-to-check-running-process-in-ubuntu-linux-using-command-line/
 
 
-
-
-
-
-MAPS_WEB_DEVELOPMENT:
+# MAPS_WEB_DEVELOPMENT:
 https://switch2osm.org/serving-tiles/
 https://leafletjs.com/
 https://medium.com/@eugenebelkovich/map-for-react-apps-with-leaflet-365f9df82d55
 
-
-
+# 3D PYTHON
 https://arsthaumaturgis.github.io/Panda3DTutorial.io/tutorial/tut_lesson02.html
 
 
 
-JAVASCRIPT BOOKS ONLINE:
+# JAVASCRIPT BOOKS ONLINE:
 https://eloquentjavascript.net/21_skillsharing.html
 
 
-NICE JAVASCRIPT 3D SCENES:
+# NICE JAVASCRIPT 3D SCENES:
 https://www.benjoffe.com/code/tools/functions3d
 
 
-RxJS :
+# RxJS :
 https://rxmarbles.com/#switchMapTo
 https://trends.builtwith.com/javascript/Angular
 
 
-HARDWARE LAPTOP UPGRADE
+# HARDWARE LAPTOP UPGRADE
 https://www.crucial.com/compatible-upgrade-for/lenovo/ideapad-gaming-3-15ach6#ssd
 
 
