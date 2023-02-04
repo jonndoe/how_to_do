@@ -21,8 +21,26 @@ package-lock.json
 **/build/*
 **/.envs/*
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
 git init .
-setup .pre-commit-config.yaml
+
+
+add requirements-dev.txt
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+django
+pre-commit
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+install pre-commit ----->>>> https://pre-commit.com/
+$ conda install -c conda-forge pre-commit
+$ pre-commit --version
+
+
+create .pre-commit-config.yaml
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 exclude: 'docs|node_modules|migrations|.git|.tox'
 default_stages: [commit]
@@ -42,7 +60,7 @@ repos:
       - id: black
 
   - repo: https://github.com/pycqa/isort
-    rev: 5.8.0
+    rev: 5.12.0
     hooks:
       - id: isort
 
@@ -59,8 +77,11 @@ repos:
     #autoupdate_schedule: weekly
     #skip: []
     #submodules: false
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    
-setup setup.cfg
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+
+
+create setup.cfg
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 [flake8]
 max-line-length = 100
@@ -93,3 +114,13 @@ omit = *migrations*, *tests*,*src*
 plugins =
     django_coverage_plugin
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+run pre-commit install to set up the git hook scripts
+now pre-commit will run automatically on git commit!
+
+
+git add .
+git commit -m "installed pre-commit"
+
+
