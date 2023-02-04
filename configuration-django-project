@@ -1,0 +1,95 @@
+Set up .gitignore
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**/node_modules/*
+._*
+__pycache__/*
+*.sqlite3
+
+*.pyc
+
+**/collectedstatic/*
+
+**/db.sqlite3
+
+**/__pycache__/*
+
+
+**/static-webpack
+**/node_modules
+package-lock.json
+
+**/build/*
+**/.envs/*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+git init .
+setup .pre-commit-config.yaml
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+exclude: 'docs|node_modules|migrations|.git|.tox'
+default_stages: [commit]
+fail_fast: true
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.0.1
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+
+  - repo: https://github.com/psf/black
+    rev: 21.5b2
+    hooks:
+      - id: black
+
+  - repo: https://github.com/pycqa/isort
+    rev: 5.8.0
+    hooks:
+      - id: isort
+
+  - repo: https://gitlab.com/pycqa/flake8
+    rev: 3.9.2
+    hooks:
+      - id: flake8
+        args: ['--config=./setup.cfg', '--ignore=F401 E402']  #some problem here, changes in setup.cfg somehow does not work in pre-commit...to be fixed
+        additional_dependencies: [flake8-isort]
+
+
+# sets up .pre-commit-ci.yaml to ensure pre-commit dependencies stay up to date
+#ci:
+    #autoupdate_schedule: weekly
+    #skip: []
+    #submodules: false
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    
+setup setup.cfg
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[flake8]
+max-line-length = 100
+exclude = .tox,.git,*/migrations/*,*/static/CACHE/*,docs,node_modules,venv,*/src/*
+ignore = F401 E402 #this does not work, need to figure it out.
+
+[pycodestyle]
+max-line-length = 120
+exclude = .tox,.git,*/migrations/*,*/static/CACHE/*,docs,node_modules,venv,*/src/*
+
+[mypy]
+python_version = 3.9
+check_untyped_defs = True
+ignore_missing_imports = True
+warn_unused_ignores = True
+warn_redundant_casts = True
+warn_unused_configs = True
+plugins = mypy_django_plugin.main
+
+[mypy.plugins.django-stubs]
+django_settings_module = config.settings.test
+
+[mypy-*.migrations.*]
+# Django migrations should not produce any errors:
+ignore_errors = True
+
+[coverage:run]
+include = pmsproject/*
+omit = *migrations*, *tests*,*src*
+plugins =
+    django_coverage_plugin
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
