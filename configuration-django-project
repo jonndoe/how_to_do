@@ -1,4 +1,9 @@
-Set up .gitignore
+create simple django project
+$ django-admin startproject someproject .
+
+
+
+create .gitignore
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **/node_modules/*
 ._*
